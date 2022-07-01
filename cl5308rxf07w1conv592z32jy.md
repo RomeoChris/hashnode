@@ -18,7 +18,7 @@ A list of other terms includes;
 - **DNS:** This means Domain Name System - DNS is a computer server that contains a database of public IP addresses and their associated hostnames and in most cases, resolves or translates those names to IP addresses.
 - [Learn more about the internet here](https://youtu.be/7_LPdttKXPc?t=46s) 
 
-**Installations**
+**Installations:**
 Setting up a development environment is an essential and good step in building any website. You could use in-browser code editors AKA sandboxes which give you the tools needed to accomplish tasks. The in-browser code editors are great and best for getting started quickly. 
 
 Honestly, setting up a real development environment is tasking but it is definitely worth it. Installing editors, packages or an entire operating system could pass for an awesome experience - an invaluable skill to add to your bag. 
